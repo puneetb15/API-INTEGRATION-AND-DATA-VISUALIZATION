@@ -164,3 +164,9 @@ GitHub: puneetb15
 
 This README file provides a clear and professional overview of your project, making it easy for others to understand and use. Let me know if you need further assistance! 😊
 
+OUTPUT: 
+![Image](https://github.com/user-attachments/assets/a2d46d9e-08f5-436c-be3d-558521511f30)
+![Image](https://github.com/user-attachments/assets/4996ad30-fd81-4bca-a624-fe39a3546a7d)
+![Image](https://github.com/user-attachments/assets/287f1799-6367-43be-9cf3-18b87dc969fa)
+![Image](https://github.com/user-attachments/assets/d263dea9-3a5e-4c48-af06-f92b809a7b27)
+![Image](https://github.com/user-attachments/assets/6a8977a3-685b-42c4-b73a-9cb50c1ecf17)
